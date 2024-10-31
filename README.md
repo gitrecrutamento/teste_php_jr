@@ -26,10 +26,8 @@ Desenvolver um script PHP que:
 4. **Exibição**: Exiba o resultado em uma tabela com duas colunas: "Palavra" e "Quantidade".
 
 
-### Exemplo de Lista de Palavras (Conteúdo de `palavras.txt`)
+### Exemplo de Lista de Palavras
 
-
-A tabela deve conter:
 
 | Palavra         | Quantidade |
 |-----------------|------------|
