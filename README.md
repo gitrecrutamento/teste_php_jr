@@ -9,7 +9,7 @@ Desenvolver um script PHP que:
 3. Conte a ocorrência de cada palavra e exiba os resultados em uma tabela.
 4. Envie um Pull Request
 
-> **Importante:** Vocẽ vai precisar ter uma ocnta no github e seguir os procedimentos para executar o Pull Request. Considere parte do teste.
+> **Importante:** Vocẽ vai precisar ter uma conta no Hithub e seguir alguns passos para executar o Pull Request. Considere parte do teste.
 
 > **Observação:** Utilize Bootstrap para estilizar a tabela, se preferir.
 
